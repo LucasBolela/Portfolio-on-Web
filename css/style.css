@@ -264,6 +264,9 @@ div[class^='category-']{
   grid-template-columns: repeat(auto-fill, minmax(350px,1fr));
   grid-gap: 20px;
 }
+a>img{
+  box-shadow: 0 0px 8px  0 rgba(0, 0, 0, 0.8);
+}
 .work{
   margin-top: 300px;
 }
