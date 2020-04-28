@@ -1,2 +1,2 @@
 # Portfolio on Web
- Creating a web site to be my personal portfolio and training HTML + Css + JavaScript
+ Creating a website to be a personal portfolio and training HTML + Css + JavaScript
